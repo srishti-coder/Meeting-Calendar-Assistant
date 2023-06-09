@@ -1,4 +1,4 @@
-> # MeetingAssistant(backend)
+> # Meeting Calendar Assistant
 Clone project and configure Application properties.
 # APIs<br>
 ## Add Users <br>
